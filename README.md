@@ -1,7 +1,7 @@
 # hello-world
 
 This text is from the MASTER BRANCH.
-## **ADDED THIS IN MY LOCAL2 CLONE**
+## **ADDED THIS IN MY LOCAL3 CLONE**
 My first repository-matic.
 Okay, can't use &lt;span&gt; tag.
 
