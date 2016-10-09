@@ -6,7 +6,7 @@ My first repository-matic.
 Okay, can't use &lt;span&gt; tag.
 
 
-Here's my frist attempt at *Markdown* **markup**. Need to look up more of the syntax.
+Here's my foist attempt at *Markdown* **markup**. Need to look up more of the syntax.
 
 ## Let's try a bulleted list:
 - Bullitt
