@@ -3,6 +3,7 @@
 This text is from the MASTER BRANCH.
 ## **ADDED THIS IN MY LOCAL3 CLONE**
 My first repository-matic.
+This addition is totally inappropriate and shoudl be rejected.
 Okay, can't use &lt;span&gt; tag.
 
 
