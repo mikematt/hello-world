@@ -17,4 +17,6 @@ Here's my foist attempt at *Markdown* **markup**. Need to look up more of the sy
 
 How do I put in special characters, or reserved characters, like an asterisk or pound sign? Need to look that up.
 
+Just prompting a pull request so I can document the workflow.
+
 Maybe I can use HTML ampersand escapes: &amp; &quot; &mdash;
